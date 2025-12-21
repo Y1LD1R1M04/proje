@@ -1471,6 +1471,47 @@ a {
 .cid-v5V85kOD2W .iconfont-wrapper {
   color: #232323;
 }
+.cid-v61rcz4grK {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/sultanbeyli-sabiha-gokcen-2.350x330-1-350x330.jpg");
+}
+.cid-v61rcz4grK .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-v61rcz4grK .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-v61rcz4grK .item-wrapper {
+  display: flex;
+  margin-bottom: 2rem;
+  border-radius: 0 !important;
+}
+@media (max-width: 767px) {
+  .cid-v61rcz4grK .item-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-v61rcz4grK .mbr-iconfont {
+  font-size: 3rem;
+  color: #2e481a;
+  padding-right: 2rem;
+}
+.cid-v61rcz4grK .content-head {
+  max-width: 800px;
+}
+.cid-v61rcz4grK .mbr-section-title {
+  color: #0c2c68;
+}
+.cid-v61rcz4grK .mbr-section-subtitle {
+  color: #393193;
+}
 .cid-v5UXB6yUlW {
   background-color: #ffffff;
   padding-top: 0rem;
