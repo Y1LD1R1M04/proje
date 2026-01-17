@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Proje Ödevi",
-    "currentPage": "index.html",
+    "currentPage": "kaynakca.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1246,6 +1246,9 @@
             },
             ".mbr-card-title": {
               "text-align": "left"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_name": "list04",
@@ -5473,6 +5476,9 @@
             },
             ".mbr-card-title": {
               "text-align": "left"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_name": "list04",
