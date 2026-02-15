@@ -60,7 +60,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "a90mitrltp",
+    "mbrsiteDomain": "efwudb9aud",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -69,11 +69,11 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "publishEditFolder": true
+    "publishEditFolder": true,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -83,8 +83,7 @@
         "meta_descr": "Sabiha Gökçen Mesleki ve Teknik Anadolu Lisesi,  Öğrenci Projesi",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/my%20resim%20day%C4%B1-275x300.jpg"
+        "html_before": ""
       },
       "components": [
         {
